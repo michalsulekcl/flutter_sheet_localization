@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_sheet_localization/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_sheet_localization/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_sheet_localization/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/localization_builder/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/localization_builder/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/localization_builder/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/localization_builder/build" />
+      <excludeFolder url="file://$MODULE_DIR$/localization_builder/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/localization_builder/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_sheet_localization_generator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_sheet_localization_generator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_sheet_localization_generator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/template_string/build" />
+      <excludeFolder url="file://$MODULE_DIR$/template_string/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/template_string/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_sheet_localization_generator/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_sheet_localization_generator/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_sheet_localization_generator/example/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
